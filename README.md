@@ -1,6 +1,10 @@
 # ❄️ Winter Animated Clock - Jetpack Compose Multiplatform
 
 
+https://github.com/user-attachments/assets/5323415c-8640-49d3-a71c-0bf41167f9e4
+
+
+
 
 A stunning winter-themed animated clock built with Jetpack Compose Multiplatform. Features a snowfall background, frosted glass digital display, analog clock with ice crystal effects, and global time zones.
 
