@@ -1,14 +1,30 @@
-This is a Kotlin Multiplatform project targeting Android, iOS.
-
-* `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
-  It contains several subfolders:
-  - `commonMain` is for code that’s common for all targets.
-  - Other folders are for Kotlin code that will be compiled for only the platform indicated in the folder name.
-    For example, if you want to use Apple’s CoreCrypto for the iOS part of your Kotlin app,
-    `iosMain` would be the right folder for such calls.
-
-* `/iosApp` contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform, 
-  you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
+# ❄️ Winter Animated Clock - Jetpack Compose Multiplatform
 
 
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+A stunning winter-themed animated clock built with Jetpack Compose Multiplatform. Features a snowfall background, frosted glass digital display, analog clock with ice crystal effects, and global time zones.
+
+## ✨ Features
+
+- **Animated Snowfall Background** with 150 unique snowflakes
+- **Frosted Glass Digital Display** with pulsing ice glow effect
+- **Winter-themed Analog Clock** with:
+  - Rotating ice crystal pattern
+  - Frozen hour markers with "ice accumulation"
+  - Gradient clock hands with ice crystals
+  - Animated glowing center
+- **Global Time Zone Cards** for NYC, London, and Tokyo
+- **Physics-based Animations** for smooth second-hand movement
+- **Dynamic Lighting Effects** with radial gradients and shadows
+
+## 🛠 Tech Stack
+- 100% Kotlin
+- Jetpack Compose Multiplatform
+- Material 3 Design
+- Compose Canvas for custom drawing
+- Compose Animation APIs
+
+## 🚀 Getting Started
+1. Clone the repository:
+```bash
+git clone https://github.com/haidrrrry/AnimatedClockJetpack.git
