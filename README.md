@@ -31,4 +31,4 @@ A stunning winter-themed animated clock built with Jetpack Compose Multiplatform
 ## 🚀 Getting Started
 1. Clone the repository:
 ```bash
-git clone https://github.com/haidrrrry/AnimatedClockJetpack.git
+git clone https://github.com/haidrrrry/AnimatedClockJetpacl.git
